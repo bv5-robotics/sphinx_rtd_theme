@@ -34,7 +34,7 @@ exclude_patterns = []
 
 master_doc = 'index'
 suppress_warnings = ['image.nonlocal_uri']
-pygments_style = 'default'
+pygments_style = 'monokai'
 
 intersphinx_mapping = {
     'rtd': ('https://docs.readthedocs.io/en/latest/', None),
